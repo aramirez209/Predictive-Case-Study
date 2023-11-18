@@ -3,11 +3,11 @@ This project contains a summary of a paper titled "Machine Learning Approaches t
 
 Usage:
 
-clone the repository (https://github.com/aramirez209/Predictive-Case-Study)
+  1. clone the repository (https://github.com/aramirez209/Predictive-Case-Study)
 
-install required dependencies pip install -r requirements.txt
+  2. install required dependencies pip install -r requirements.txt
 
-Run the Python system
+  3. Run the Python system
 
 Contributing: Analya Ramirez 
 
